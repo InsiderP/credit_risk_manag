@@ -21,7 +21,7 @@ A modern dashboard for analyzing customer credit risk and financial health, buil
 ### Backend
 - Node.js with Express
 - TypeScript
-- In-memory data storage
+
 
 ## Getting Started
 
